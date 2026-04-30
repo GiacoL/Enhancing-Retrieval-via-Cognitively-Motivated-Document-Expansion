@@ -40,4 +40,4 @@ requirements.txt
 *f_similarity_v4.py*: similarity calculation
 *f_similarity_v4_parallel_multithread_vect_batch*.py: similarity calculation with batch, multithreading and vectorized operations
 
-FOLDER **Experiments-Metadata**: all the *VM_00_01_folders_and_global_variables.py* for the experiments performed
+FOLDER **code/Experiments-Metadata**: all the *VM_00_01_folders_and_global_variables.py* for the experiments performed
