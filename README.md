@@ -49,6 +49,3 @@ Three additional files:
  - *__MA_Dataanalysis_short.ipynb*: notebook which allows to reproduce charts and tables of the master thesis
  - *__log.xlsx*: log-file of the experiments' metadata and functions' versions
  - *__Checks_ALL_df_reports.xlsx*: a file where some results are reproduced with Excel as an additional check
-
- # Thesis
- Pdf and Latex files 
