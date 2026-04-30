@@ -41,11 +41,3 @@ requirements.txt
 *f_similarity_v4_parallel_multithread_vect_batch*.py: similarity calculation with batch, multithreading and vectorized operations
 
 FOLDER **Experiments-Metadata**: all the *VM_00_01_folders_and_global_variables.py* for the experiments performed
-
-
-# Results
-In this folder, all the output data from the experiments are to be found.
-Three additional files:
- - *__MA_Dataanalysis_short.ipynb*: notebook which allows to reproduce charts and tables of the master thesis
- - *__log.xlsx*: log-file of the experiments' metadata and functions' versions
- - *__Checks_ALL_df_reports.xlsx*: a file where some results are reproduced with Excel as an additional check
